@@ -23,7 +23,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "ext-mongodb": "^1.15",
         "mongodb/mongodb": "^1.15"
     },
     "require-dev": {
